@@ -1,12 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import ShoeShop from './ShoeShop/ShoeShop';
+
+import BaiTapGioHang from './GioHang/BaiTapGioHang';
 
 function App() {
   return (
     <div>
-      <ShoeShop>
-      </ShoeShop>
+      <BaiTapGioHang></BaiTapGioHang>
     </div>
   );
 }
